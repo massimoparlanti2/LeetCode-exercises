@@ -1,4 +1,4 @@
-# Problem <1716> - Calculate Money in Leetcode bank
+# Problem <1716> - Calculate Money in Leetcode bank (Easy)
 # URL: https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2025-10-25
 # Description:
 #   Hercy wants to save money for his first car. He puts money in the Leetcode bank every day.
