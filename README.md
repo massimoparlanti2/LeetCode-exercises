@@ -6,16 +6,21 @@ Each solution is organized by difficulty and includes explanations, example test
 ## 📂 Repository Structure
 
 leetcode-python-solutions/
-│
-├─ README.md # This file
-├─ Python/
-│ ├─ Easy/ # Easy problems
-│ ├─ Medium/ # Medium problems
-│ └─ Hard/ # Hard problems
-└─ Notes/ # Algorithm notes, patterns, and explanations
-
-- **Python/Easy, Python/Medium, Python/Hard**: Solutions organized by difficulty.  
-- **Notes/**: Markdown files explaining patterns and algorithms (Dynamic Programming, Graphs, etc.).
+├── README.md               # This file
+├── Python/
+│   ├── Easy/               # Easy problems
+│   │   ├── 1_TwoSum.py
+│   │   └── ...
+│   ├── Medium/             # Medium problems
+│   │   ├── 2_AddTwoNumbers.py
+│   │   └── ...
+│   └── Hard/               # Hard problems
+│       ├── 3_LongestSubstring.py
+│       └── ...
+└── Notes/                  # Algorithm notes, patterns, and explanations
+    ├── dynamic_programming.md
+    ├── graphs.md
+    └── misc.md
 
 ---
 
