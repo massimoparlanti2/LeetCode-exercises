@@ -1,5 +1,5 @@
 # Problem <1768> - Merge Strings Alternately (Easy)
-# URL: 
+# URL: https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
 # Description:
 #   You are given two strings word1 and word2. 
 #   Merge the strings by adding letters in alternating order, starting with word1. 

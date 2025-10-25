@@ -57,5 +57,7 @@ if __name__ == "__main__":
         result = function_name(*inputs[:-1])
         print(result)
         assert result == inputs[-1]
+
+
 Includes type hints, example test cases, and assert checks.
 Each solution mentions Time and Space Complexity for clarity.
