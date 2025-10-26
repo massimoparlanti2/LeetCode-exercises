@@ -3,27 +3,6 @@
 This repository contains my solutions to **LeetCode problems** implemented in Python.  
 Each solution is organized by difficulty and includes explanations, example test cases, and complexity analysis.  
 
-## 📂 Repository Structure
-
-leetcode-python-solutions/
-  README.md
-  Python/
-    Easy/
-      1_TwoSum.py
-      ...
-    Medium/
-      2_AddTwoNumbers.py
-      ...
-    Hard/
-      3_LongestSubstring.py
-      ...
-  Notes/
-    dynamic_programming.md
-    graphs.md
-    misc.md
-
----
-
 ## 📝 Problem File Template
 
 Each Python file follows a consistent format:
