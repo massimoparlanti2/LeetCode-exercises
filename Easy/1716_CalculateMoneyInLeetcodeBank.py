@@ -45,5 +45,5 @@ if __name__ == "__main__":
         print(f"mergeAlternately({n}) = {result} | Expected: {expected} | Pass!!!")
         assert result == expected, "Test failed!"
 
-# Time complexity: O(1), is linear
+# Time complexity: O(1), is constant
 # Space complexity: O(1)
